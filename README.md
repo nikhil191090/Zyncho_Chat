@@ -27,12 +27,3 @@ It focuses on **real-time, reliable, and private communication** with a modern m
 - **Package Manager:** npm / yarn
 
 ---
-
-## 📂 Getting Started
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/nikhil191090/Zyncho_Chat.git
-cd Zyncho_Chat
-```
